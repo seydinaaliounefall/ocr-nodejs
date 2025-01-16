@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@google-cloud/vision": "^4.3.0",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1",
+    "mysql2": "^3.10.2",
+    "nodemon": "^3.1.4",
+    "sequelize": "^6.37.3"
+  },
+  "name": "ocr-invoices",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "SET NODE_ENV=TEST& nodemon server.js",
+    "dev": "SET NODE_ENV=DEVELOPMENT& nodemon server.js",
+    "prod": "SET NODE_ENV=PRODUCTION && nodemon server.js"
+  },
+  "author": "Seydina Alioune Fall",
+  "license": "ISC",
+  "description": ""
+}

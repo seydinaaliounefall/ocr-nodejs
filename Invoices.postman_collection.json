@@ -1,0 +1,27 @@
+{
+    "_": {
+        "postman_id": "b1e11240-81ce-425e-bb56-712cb8899be0"
+    },
+    "item": [
+        {
+            "id": "3ee09694-6f17-4d41-8917-f192ac781fd0",
+            "name": "invoices",
+            "request": {
+                "url": {
+                    "query": [],
+                    "variable": []
+                },
+                "method": "POST"
+            },
+            "response": [],
+            "event": []
+        }
+    ],
+    "event": [],
+    "variable": [],
+    "info": {
+        "_postman_id": "b1e11240-81ce-425e-bb56-712cb8899be0",
+        "name": "Invoices",
+        "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+    }
+}
